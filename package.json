@@ -1,0 +1,16 @@
+{
+  "name": "cats",
+  "version": "0.0.1",
+  "description": "a website about cats",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "author": "jvs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
