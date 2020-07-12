@@ -4,8 +4,7 @@
   "description": "a website about cats",
   "main": "server.js",
   "scripts": {
-    "test": "nodemon server.js",
-    "start": "NODE_ENV=production nodemon server.js"
+    "start": "nodemon server.js"
   },
   "author": "jvs",
   "license": "ISC",
